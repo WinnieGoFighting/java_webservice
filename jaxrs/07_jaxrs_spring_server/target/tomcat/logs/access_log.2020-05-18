@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [18/May/2020:23:48:32 -0500] "GET /ws/userService/userService/user HTTP/1.1" 200 111 http-bio-8888-exec-2 716
+0:0:0:0:0:0:0:1 - - [18/May/2020:23:49:45 -0500] "GET /ws/userService/user HTTP/1.1" 200 111 http-bio-8888-exec-2 515
+127.0.0.1 - - [18/May/2020:23:50:29 -0500] "POST /ws/userService/user HTTP/1.1" 204 - http-bio-8888-exec-4 217
+127.0.0.1 - - [18/May/2020:23:50:52 -0500] "GET /ws/userService/user/1 HTTP/1.1" 200 64 http-bio-8888-exec-6 44
